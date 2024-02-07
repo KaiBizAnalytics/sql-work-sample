@@ -1,6 +1,6 @@
-# SQL Work Sample for BC Demographic Survey
+# SQL Work Sample
 ## Overview
-Welcome to my SQL work sample repository. Here, you'll find a curated collection of SQL queries that I developed while serving as a Research Analyst for the BC Demographic Survey. In this role, I engaged extensively with survey data to uncover insights into participant engagement and survey effectiveness, while also leading efforts in data quality assurance.
+Welcome to my SQL work sample repository. Here, you'll find a curated collection of SQL queries that I developed while serving as a Research Analyst at BC Stats. In this role, I engaged extensively with survey data to uncover insights into participant engagement and survey effectiveness, while also leading efforts in data quality assurance.
 
 ## What's Inside
 The queries in this repository highlight my comprehensive SQL skills, including but not limited to:
